@@ -17,8 +17,7 @@ BiasRx is a Streamlit-based tool that helps data scientists and ML engineers unc
 ## 📦 Setup
 
 ```bash
-pip install -r requirements.txt
-streamlit run app/main.py
+streamlit run app.py
 ```
 
 ## 📁 Sample Usage
